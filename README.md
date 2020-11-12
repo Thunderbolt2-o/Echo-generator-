@@ -32,3 +32,9 @@ A spectrogram is a visual way of representing the signal strength(loudness), of 
 How do you read a spectrogram?
 
 Spectrograms are 2D graphs, with a third dimension of the graph is represented by colors. Time runs from left to right along the x-axis. The y-axis represents frequency, which can also be thought of as pitch or tone, with the lowest frequencies at the bottom and the highest frequencies at the top. The amplitude (or energy or “loudness”) of a particular frequency at a particular time is represented by the third dimension, color, with dark blues corresponding to low amplitudes and brighter colors up through red corresponding to progressively stronger (or louder) amplitudes.
+
+Procedure:-
+
+Create a folder for the test signals on your desktop.
+Now open the Matlab and set the current location to the test signals folder.
+Now run the code in the script.
