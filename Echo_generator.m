@@ -13,5 +13,4 @@ rev = flipud(y);
 y1 = audioplayer(rev,f);
 
 %play(p1) generators the echo and play(y1) plays the reverse of the audio
-%file...
-%should add the audio wave generator and think others....
+
